@@ -82,3 +82,7 @@ ex) 방을 생성하였는데 방이 안나타날경우
 
 >Vue, Node, 등 기타작업
 >> Vscode 작업
+
+---------------------------------------
+# DATA MODELING
+![AresDataModel](/path/DataModel/AresDataModel.jpg)
