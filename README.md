@@ -85,4 +85,4 @@ ex) 방을 생성하였는데 방이 안나타날경우
 
 ---------------------------------------
 # DATA MODELING
-![AresDataModel](/DataModelAresDataModel.jpeg)
+![AresDataModel](/DataModel/AresDataModel.jpeg)
