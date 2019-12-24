@@ -35,7 +35,7 @@
 > 부가기능
 1. 채팅하기(로그인시, 채팅가능)
 > 김가람 군의 vue로 만든 포트폴리오
-1. > http://waiting/karamPortpolio      여기를 들어가게되면은 김가람군의 vuejs 기반의 포트폴리오가 나타납니다. ( front-end ) .feat (webpack으로 제작)
+1. > http://NOREADY/index.html#/      여기를 들어가게되면은 김가람군의 vuejs 기반의 포트폴리오가 나타납니다. ( front-end ) .feat (webpack으로 제작)
 
 # Vue Js와 Express Js를 이용한 채팅서버 입니다.
 ##### Make. 최현종
@@ -86,3 +86,7 @@ ex) 방을 생성하였는데 방이 안나타날경우
 ---------------------------------------
 # DATA MODELING
 ![AresDataModel](/DataModel/AresDataModel.jpeg)
+
+부족하지만 최대한 모델링을 해보았습니다.
+
+-----------------------------------------
