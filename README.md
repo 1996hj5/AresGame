@@ -59,8 +59,7 @@
 2. 또는 사용자페이지 footer [매니저관리] 클릭
 
 >김가람 군의 vue로만든 portfolio
-1. http://
-222.99.214.151:8090/index.html#/
+1. http://222.99.214.151:8090/index.html#/
    1. front-end만 적용
    2. webpack으로 제작
    3. MVVM방식
